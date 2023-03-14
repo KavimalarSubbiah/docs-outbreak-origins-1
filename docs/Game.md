@@ -21,7 +21,7 @@ Access the sidebar and select the desired control measure to implement, whether 
 ![User Actions](../static/img/Game/UserActions.png)
 
 ## Services Per Region:
-The services in the region can be upgraded. Click on the upgrade button near service level 
+The services in the region are a key part factor in the success of your fight against the virus. To upgrade the Service Level,click on the upgrade button near service level 
 
 ![Services](../static/img/Game/Service.png)
 
